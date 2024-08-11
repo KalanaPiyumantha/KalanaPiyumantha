@@ -13,6 +13,16 @@
 - 🌱 I’m currently learning **Python, React**
 
 <h3 align="left">Connect with me:</h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,typescript,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git" />
+</div>
+
+<br/>
+<hr/>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kalana-piyumantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalana-piyumantha/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kalana.willaddaragamage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kalana.willaddaragamage/" height="30" width="40" /></a>
