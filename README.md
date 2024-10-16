@@ -23,7 +23,13 @@
     <img src="https://skillicons.dev/icons?i=github,python,javascript,typescript,c,java,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git,php,illustrator" />
 </div>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KalanaPiyumantha/KalanaPiyumantha/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <br/>
 <hr/>
 
