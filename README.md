@@ -20,22 +20,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript,typescript,c,java,laravel,c++" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,typescript,c,java,laravel,c ++" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git,php,illustrator" />
 </div>
 
 <br/>
 <hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KalanaPiyumantha/KalanaPiyumantha/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanapiyumantha&show_icons=true&locale=en&layout=compact" alt="kalanapiyumantha" /></p>
