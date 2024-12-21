@@ -92,6 +92,9 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
 </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Laravel.svg" alt="Laravel" width="50" height="50" />
+</a>
 </p>
 
 ---
