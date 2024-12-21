@@ -78,6 +78,9 @@
 <a href="https://www.illustrator.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Illustrator.svg" alt="Illustrator" width="50" height="50"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="Photoshop" width="50" height="50"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50"/> </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Laravel.svg" alt="Laravel" width="50" height="50" />
+</a>
 </p>
 
 ---
