@@ -39,13 +39,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yasirumadhuwantha&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kalanapiyumantha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark&hide_border=false" /> 
+  <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanapiyumantha&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yasirumadhuwantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalanapiyumantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -82,5 +82,8 @@
 
 ---
 
-<h3 align="center">Support</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/yasiru"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+
+<hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
