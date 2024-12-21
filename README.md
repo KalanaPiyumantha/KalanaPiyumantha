@@ -81,6 +81,21 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Laravel.svg" alt="Laravel" width="50" height="50" />
 </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/React-Dark.svg" alt="React" width="50" height="50" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Git-Dark.svg" alt="Git" width="50" height="50" />
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
+</a>
 </p>
 
 ---
