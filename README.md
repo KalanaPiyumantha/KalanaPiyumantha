@@ -42,11 +42,11 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kalanapiyumantha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanapiyumantha&theme=dark&hide_border=false" /> 
+ <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark&hide_border=false" /> 
+ 
   
   </td>
 </tr>
