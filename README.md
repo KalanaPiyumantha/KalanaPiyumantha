@@ -30,7 +30,7 @@
 ---
 
 <h3 align="center">My Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirumadhuwantha&theme=darkhub" alt="yasirumadhuwantha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KalanaPiyumantha&theme=darkhub" alt="KalanaPiyumantha" /></a> </p>
 
 ---
 
@@ -42,9 +42,11 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kalanapiyumantha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
- <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark&hide_border=false" /> 
+ <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KalanaPiyumantha&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KalanaPiyumantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
 
  
   
