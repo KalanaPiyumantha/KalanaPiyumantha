@@ -46,7 +46,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalanapiyumantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark&hide_border=false" /> 
   
   </td>
 </tr>
