@@ -97,7 +97,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="50" height="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IntelliJIDEA.svg" alt="IntelliJ IDEA" width="50" height="50"/>
 </a>
 </p>
 
