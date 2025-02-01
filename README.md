@@ -88,6 +88,12 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="Photoshop" width="50" height="50"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50"/> </a>
 </a>
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="Selenium" width="50" height="50"/>
+    </a> 
+    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TestNG_logo.svg/120px-TestNG_logo.svg.png" alt="TestNG" width="50" height="50"/>
+    </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/React-Dark.svg" alt="React" width="50" height="50" />
 </a>
