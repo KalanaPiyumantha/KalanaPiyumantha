@@ -85,7 +85,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50"/> </a>
 <a href="https://www.illustrator.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Illustrator.svg" alt="Illustrator" width="50" height="50"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="Photoshop" width="50" height="50"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50"/> </a></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="Selenium" width="50" height="50"/></a> 
 <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="TestNG" width="50" height="50"/></a>
