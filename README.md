@@ -91,16 +91,10 @@
 <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TestNG_logo.svg/120px-TestNG_logo.svg.png" alt="TestNG" width="50" height="50"/></a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/React-Dark.svg" alt="React" width="50" height="50" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50" />
-</a>
-
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
-
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IntelliJIDEA.svg" alt="IntelliJ IDEA" width="50" height="50"/></a> 
 </p>
 
 ---
