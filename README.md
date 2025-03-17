@@ -9,9 +9,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Python, React, Java, C++**
-- 🧑‍🎓 I’m an Undergraduate at **Department of Computer Science And Informatics**
-- 🧑‍🎓 I’m a Student at Uva Wellassa University of Sri Lanka
+- 🌱 I’m currently learning **Python, Java**
+- 🧑‍🎓 Undergraduate at **Department of Computer Science And Informatics**
+- 🧑‍🎓 Student at Uva Wellassa University of Sri Lanka
 - 💬 Ask me about **Python, Java**
 - 📫 How to reach me **251kalana@gmail.com**
 - ⚡ Fun fact **Call me as Ivar**
