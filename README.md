@@ -2,19 +2,19 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kalana+Piyumantha!;" />
 </h1>
-<h3 align="center">Passionate IT Student & Software Developer | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Odoo | Python Developer | Exploring the Boundless World of Modern ERP </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalanapiyumantha&label=Profile%20views&color=0e75b6&style=flat" alt="kalanapiyumantha" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently Working as A Junior Software Engineer | Odoo Developer
 - 🧑‍🎓 Undergraduate at **Department of Computer Science And Informatics**
 - 🧑‍🎓 Student at Uva Wellassa University of Sri Lanka
-- 💬 Ask me about **Python, Java**
+- 💬 Interested In Odoo ERP and Workflows
 - 📫 How to reach me **251kalana@gmail.com**
-- ⚡ Fun fact **Call me as Ivar**
+
 
 
 </td>
